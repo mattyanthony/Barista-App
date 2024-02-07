@@ -105,8 +105,8 @@ li {
 
 .mini-header, .answer-space {
   background-color: rgb(226, 195, 147);
-  border-radius: 10px; /* Adjust as necessary */
-  color: black; /* Adjust if you have a specific color in mind */
+  border-radius: 10px; 
+  color: black; 
   padding: 10px 0;
   text-align: center;
   margin: 10px 0;
